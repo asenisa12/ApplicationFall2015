@@ -3,6 +3,7 @@
 Example how to run the program:
 -------------------------------
 	-$python task2.py tableData.tx
+-------------------------------
 
 -1.tableData.txt - text file from wich the script reads the data for the table.
 It could be changed.
